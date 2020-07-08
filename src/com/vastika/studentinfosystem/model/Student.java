@@ -9,6 +9,7 @@ public class Student {
 	private String email;
 	private Date dob;
 	private int age;
+	private int salary;
 	
 	
 	public int getId() {
